@@ -10,17 +10,17 @@ This project was undertaken as part of an assessment for a Data Science Course.
 1. Loading the data
 2. Understanding the data
 3. Decision Trees:
-  > Random Forest
-  > Ada Boosted Trees
-  > Gradient boosted Trees
+  a. > Random Forest
+  b. > Ada Boosted Trees
+  c. > Gradient boosted Trees
 4. Data Cleaning
 4. Perform univariate, bivariate and multivariate analysis
 5. Perform regression analysis (polynomial, rbf kernel function)
-  > Polynomial
-  > Multiple Linear Regression
-  > rbf kernel function
-  > Build SVM model
-  > Evaluate performance and pick the kernel that performs the best
+  a. > Polynomial
+  b. > Multiple Linear Regression
+  c. > rbf kernel function
+  d. > Build SVM model
+  e. > Evaluate performance and pick the kernel that performs the best
 6. Conclusion
 7. Recommendation
 
